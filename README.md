@@ -66,6 +66,20 @@ Convertivo is built and maintained by **AD Polyline Inc.**, an Ontario-based arc
 Learn more at [adpolyline.com](https://adpolyline.com).
 
 ## Screenshots
+<img width="1920" height="1044" alt="13" src="https://github.com/user-attachments/assets/86dd1455-0075-46ef-8b47-7891b1499901" />
+<img width="1920" height="1044" alt="12" src="https://github.com/user-attachments/assets/3e5756b8-26de-4b56-8631-0fedd33a0977" />
+<img width="1920" height="1044" alt="11" src="https://github.com/user-attachments/assets/519d9d5a-b83a-4a5c-91ef-4b7605ff6720" />
+<img width="1920" height="1044" alt="10" src="https://github.com/user-attachments/assets/eff0f1c0-b438-4f5f-8429-230cd280fa5d" />
+<img width="1920" height="1044" alt="9" src="https://github.com/user-attachments/assets/a983382e-bcf2-41c0-ba8a-166044569f40" />
+<img width="1920" height="1044" alt="8" src="https://github.com/user-attachments/assets/9bcb6568-11ac-4e45-8738-7621ad8d03f0" />
+<img width="1920" height="1044" alt="7" src="https://github.com/user-attachments/assets/9852306f-b47d-4af5-b3c9-e46bbda48093" />
+<img width="1920" height="1044" alt="6" src="https://github.com/user-attachments/assets/a13d096d-4ff3-408f-9e26-3bd135f0ac53" />
+<img width="1920" height="1044" alt="5" src="https://github.com/user-attachments/assets/841f1ee7-0c20-4add-8a33-7a605a706577" />
+<img width="1920" height="1044" alt="4" src="https://github.com/user-attachments/assets/0cb58aed-f4f9-4f2e-b1a7-e6302bcf4d94" />
+<img width="1920" height="1044" alt="3" src="https://github.com/user-attachments/assets/717b5d2b-2fb2-4f38-895d-8e13ef274aa1" />
+<img width="1920" height="1044" alt="2" src="https://github.com/user-attachments/assets/ff9e2322-1bcd-4af7-af7e-d09ca565734d" />
+<img width="1920" height="1044" alt="1" src="https://github.com/user-attachments/assets/855f3b02-138d-4b2a-bb6e-59aaec6c4723" />
+<img width="1920" height="1044" alt="14" src="https://github.com/user-attachments/assets/566f25fa-234a-48fc-b3bf-53a035b6908e" />
 
 <!-- Add a screenshot of the main window here -->
 <!-- Add a screenshot of a conversion in progress here -->
